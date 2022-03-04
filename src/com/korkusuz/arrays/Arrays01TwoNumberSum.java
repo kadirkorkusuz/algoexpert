@@ -1,4 +1,4 @@
-package com.korkusuz;
+package com.korkusuz.arrays;
 
 import java.util.*;
 
